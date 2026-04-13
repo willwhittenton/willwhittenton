@@ -12,8 +12,9 @@ My current stack: dbt, Snowflake, Microsoft Fabric, Python, SQL, PySpark. I pick
 If you want a sense of how I think about data modeling and architecture, the marketing-analytics-foundation repo is a good starting point.
 
 ---
-What I'm looking for is a role where data work connects to outcomes that matter -- where there are real problems to solve, real decisions to inform, and room to build something that lasts. I'm drawn to early-stage companies, healthtech, fintech, and B2B SaaS, and I'm open to other conversations as well. If something I've built or written resonates with what you're working on, I'd love to talk.
-willwhittenton@gmail.com or whittenton.us
+What I'm looking for is a role where data work connects to outcomes that matter both to internal stakeholders and the people who use our products. I want to solve real problems by informing decisions that help build something that lasts. I'm drawn to early-stage companies, healthtech, fintech, and B2B SaaS, and I'm open to other conversations as well. If something I've built or written resonates with what you're working on, I'd love to talk.
+
+willwhittenton@gmail.com or [whittenton.us](https://whittenton.us)
 
 ---
 
